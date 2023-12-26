@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Quicksand';
+    src: url('./fonts/Quicksand-VariableFont_wght.ttf') format('truetype');
+}
+
+* {
+    text-align: center;
+    font-family: 'Quicksand';
+}
+
+h1 {
+    font-size: 24px;
+}
+
+img {
+    margin-bottom: 0;
+    width: 350px;
+}
+
+p.footer {
+    margin-top: 0;
+    margin-bottom: 50px;
+    font-size: 14px;
+}
+
+hr {
+    height: 5px;
+    background-color: black;
+    border: none;
+    margin: 20px 0;
+}
+
+h3 {
+    font-weight: normal;
+}
